@@ -19,7 +19,6 @@
 | 主页面 (Main) | 预报页面 (Forecast) |
 |:---:|:---:|
 | <img src="screenshots/home.png" width="300" alt="主页面截图"/> | <img src="screenshots/forecast.png" width="300" alt="预报页面截图"/> |
-> *注：请将你的应用截图放入项目的 `screenshots` 文件夹，或者替换上面的图片链接。*
 
 ## 🛠️ 技术栈 (Tech Stack)
 
