@@ -34,5 +34,5 @@
 ## 🚀 快速开始 (Getting Started)
 
 ### 1. 克隆项目
-```bash
-git clone [https://github.com/YourUsername/My_weather.git](https://github.com/YourUsername/My_weather.git)
+```bash  
+git clone [https://github.com/qibai1/Byte-Training-Camp-Project.git](https://github.com/qibai1/Byte-Training-Camp-Project.git)
